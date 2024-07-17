@@ -1,6 +1,7 @@
 {
   "responses": {
     "Bonjour": ["Bonjour", "Hello", "Salut"],
+    "ok": ["Bonjour", "Hello", "Salut"],
     "Comment ça va ?": ["Ça va bien, merci.", "Je vais bien, et vous ?", "Tout va bien."],
     "Quel est ton nom ?": ["Je suis une IA.", "Je suis votre assistant virtuel.", "Je m'appelle AI."]
   }
